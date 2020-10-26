@@ -1,0 +1,3 @@
+[submodule "fod-solution"]
+	path = fod-solution
+	url = https://github.com/PacktPublishing/Learn-Docker---Fundamentals-of-Docker-19.x-Second-Edition

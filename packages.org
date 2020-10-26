@@ -1,0 +1,10 @@
+#+title: Packages needed for Docker
+#+author: Luiz Tagliaferro
+
+
+* Packages
+  -> In my case I'm using arch linux distro, then:
+#+BEGIN_SRC bash
+sudo pacman -Sy docker docker-compose --noconfirm \
+&& sudo systemctl enable docker.service && sudo systemctl start docker.service
+#+END_SRC
