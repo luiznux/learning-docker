@@ -1,0 +1,12 @@
+#+title: Notes
+#+author: Luiz Tagliaferro
+
+
+[[./img/containers-vs-vm.jpg]]
+
+
+
+* docker command sample
+
+[[./img/command-sample.png]]
+
